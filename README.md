@@ -4,6 +4,7 @@ This was borrowed from here https://github.com/jjscarlett/jjscarlett.github.io
 http://jmcglone.com/guides/github-pages/#
 
 The Index.html page becomes the home page for https://eliong.github.io/ which is the name of the Github repository
+https://eliong.github.io/Index.html
 
 Instructions from JJScarlett
 All credit goes to JS. Instructions here for my personal reference
